@@ -1,5 +1,7 @@
 # react-youtube
 
+Le projet est fait en React et utilise Firebase.
+
 Membres du groupe : 
   - Nicholas BARNINI
   - Karl FERRERO
