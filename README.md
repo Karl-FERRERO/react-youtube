@@ -9,5 +9,7 @@ Membres du groupe :
 L'application est hosté sur Firebase : https://reactmbds-6ec78.firebaseapp.com/
 
 Pour lancer le projet en local :
-1) faire "npm install" 
-2) lancer "npm start"
+1) Cloner le repo
+2) Aller dans le répertoire react-youtube avec cmd (ou autre)
+3) faire "npm install" 
+4) lancer "npm start"
