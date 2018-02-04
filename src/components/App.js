@@ -1,14 +1,11 @@
 import React, { Component } from 'react';
 import logo from '../logo.svg';
 import '../css/App.css';
-import Video from './Video';
 import VideoList from './VideoList';
 import firebase from './fire';
 
 class App extends Component {
-constructor(props) {
-    super(props);
-  }
+
   
   addVideo(e){
     e.preventDefault(); // <- prevent form submit from reloading the page

@@ -1,7 +1,6 @@
 import React, {Component} from 'react';
 import Video from './Video';
 import _ from 'lodash';
-import firebase from './fire';
 import '../css/App.css';
 
 class VideoList extends Component {

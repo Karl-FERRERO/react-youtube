@@ -1,14 +1,11 @@
 import React, {Component} from 'react';
-import firebase from './fire';
 import Rater from 'react-rater'
-import axios from 'axios';
 import 'react-rater/lib/react-rater.css'
 
 class Video extends Component {
 	constructor(props) {
 	    super(props)
 
-	    var viewCount;
 
 		 this.state = {
 		      viewCount: 0,
